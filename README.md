@@ -1,5 +1,24 @@
-# 💫 About Me:
- 👋 Hi, I'm Joseph, a Data Analyst with a background in Medical Laboratory Science and over 15 years of experience in the healthcare sector.<br><br>I’m passionate about using Python to extract insights from data, automate analysis, and make diagnostics easier and smarter.<br><br>🔭 Currently building my Python portfolio—exploring data cleaning, visualization, and machine learning.<br><br>💼 Future goal: Transitioning into Data Science and AI Engineering.<br><br>⚙️ Tools I use: Pandas | NumPy | Matplotlib | Scikit-learn | SQL | Excel
+# 👋 Hi, I'm Joseph Innocent  
+
+💻 **Data Analyst | Medical Laboratory Scientist | 15+ Years in Healthcare**
+
+I'm passionate about using **Python** and **SQL** to extract insights from data, automate workflows, and make **diagnostics smarter and more efficient**.  
+
+---
+
+### 🧠 About Me  
+- 🎓 Background in **Medical Laboratory Science**  
+- 🧩 Over **15 years of experience** in the healthcare sector  
+- 🐍 Currently building my **Python portfolio**  
+- 🔍 Exploring **data cleaning**, **data visualization**, and **machine learning**  
+- ⚙️ Passionate about **healthcare analytics** and **AI-driven diagnostics**
+
+---
+
+### 🚀 Current Focus  
+📊 Enhancing my portfolio with real-world data projects that combine **medical insights** and **data science techniques**.
+
+---
 
 
 ## 🌐 Socials:
@@ -7,3 +26,7 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+⭐️ *"Turning healthcare data into actionable intelligence."*
