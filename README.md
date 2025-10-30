@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Joseph Innocent  
 
-💻 **Data Analyst | Medical Laboratory Scientist | 15+ Years in Healthcare**
+💻 **Data Analyst | Medical Laboratory Scientist**
 
 I'm passionate about using **Python** and **SQL** to extract insights from data, automate workflows, and make **diagnostics smarter and more efficient**.  
 
 ---
 
 ### 🧠 About Me  
-- 🎓 Background in **Medical Laboratory Science**  
-- 🧩 Over **15 years of experience** in the healthcare sector  
+- 🎓 Background in **Medical Laboratory Science**   
 - 🐍 Currently building my **Python portfolio**  
 - 🔍 Exploring **data cleaning**, **data visualization**, and **machine learning**  
 - ⚙️ Passionate about **healthcare analytics** and **AI-driven diagnostics**
